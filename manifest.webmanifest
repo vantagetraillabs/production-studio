@@ -1,0 +1,17 @@
+{
+  "name": "VTL Production Studio",
+  "short_name": "VTL Studio",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f3ed",
+  "theme_color": "#172b29",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
